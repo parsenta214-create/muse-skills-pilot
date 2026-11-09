@@ -33,12 +33,12 @@ Each skill is a `SKILL.md` (the procedure) plus a `skill.yaml` (name, title, des
 
 ## What was changed for publication
 
-Adapted from a personal workflow. Substance unchanged; only publication clean-up was done:
+Adapted from an existing workflow. Substance unchanged; only publication clean-up was done:
 
-- Removed personal names, private example cases, Drive file IDs, and internal paths.
+- Cleaned up names, example cases, and internal references for publication.
 - Replaced environment-specific tool names and paths with generic descriptions, so the skills work in other agent environments.
 - Removed region-specific service references. Consultants are centred on ChatGPT, Claude, Gemini, and Grok, with DeepSeek as an optional additional service.
-- No personal names, no secrets, no API keys, no passwords, no tokens in these files. The internal asset-map draft (`ASSET-MAP-DRAFT.md`) is not part of the public pack.
+- No personal names, no secrets, no API keys, no passwords, no tokens in these files. The internal asset map is not included.
 
 ## Prerequisites for the reader
 
