@@ -1,0 +1,5 @@
+name: "nim-rag"
+title: "NIM文書検索"
+description: "手元の文書をローカル検索する。NVIDIAのnemo-retriever / rag-blueprint / rag-evalを汎用的なエージェント利用に組み直したもの。証拠だけから答え、出典と類似度を残す。埋め込みは別経路で利用可能（2026-11-07再試験済み）だが、このスキルはTF-IDFで独立して動く。"
+category: "Work and knowledge"
+include_in_prompt: true

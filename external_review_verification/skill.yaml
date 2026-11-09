@@ -1,0 +1,5 @@
+name: external_review_verification
+title: External Review Verification
+description: Verify an external reviewer findings against the cited source, stop a review loop that does not converge, and verify a fix live before reporting it fixed.
+category: Work and knowledge
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "archive"
+title: "Archive"
+description: "Save research material as a verified archive with original, extraction, AI summary, and verification record kept separate, using the Google Drive connector and existing archives first."
+category: "Work and knowledge"
+include_in_prompt: true

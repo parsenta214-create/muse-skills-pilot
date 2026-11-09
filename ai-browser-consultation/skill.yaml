@@ -1,0 +1,5 @@
+name: "ai_browser_consultation"
+title: "AI Browser Consultation"
+description: "Consult ChatGPT, Claude, Gemini, or Grok through the agent's browser, with manual user approval for any sign-in, and bring back a checked summary. DeepSeek is an optional additional service."
+category: "Work and knowledge"
+include_in_prompt: true

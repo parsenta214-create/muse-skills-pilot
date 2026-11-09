@@ -1,0 +1,5 @@
+name: "grok-search-layer"
+title: "Grok Search Layer"
+description: "Sweep X and the web through Grok for fresh signals, then verify each against primary sources before reporting."
+category: "Work and knowledge"
+include_in_prompt: false

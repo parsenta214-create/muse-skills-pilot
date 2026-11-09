@@ -1,0 +1,5 @@
+name: "research"
+title: "Research"
+description: "Run a checked, multi-language research task with claims, sources, dates, and a countercheck, and write a report that keeps conflicts visible."
+category: "Work and knowledge"
+include_in_prompt: true

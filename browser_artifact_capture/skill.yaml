@@ -1,0 +1,5 @@
+name: browser_artifact_capture
+title: Browser Artifact Capture
+description: Capture and verify a file produced or evaluated in the browser before reporting it as delivered.
+category: Work and knowledge
+include_in_prompt: true

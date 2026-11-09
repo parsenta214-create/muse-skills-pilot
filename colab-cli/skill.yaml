@@ -1,0 +1,5 @@
+name: "colab-cli"
+title: "Colab CLI Operation"
+description: "Operate Google Colab GPU/TPU runtimes via the colab CLI: provision sessions, run code, sync files, and track compute-unit spend. Keep live state in a separate operation ledger file."
+category: "Work and knowledge"
+include_in_prompt: false
